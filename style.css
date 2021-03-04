@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.divWrap {
+    width: 90%;
+    margin-top: 15px;
+    border: 1px solid black;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.userWrap {
+    margin-top: 15px;
+    border: 1px solid fuchsia;
+    margin-bottom: 10px;
+}
+
+.linck {
+    display: block;
+    text-decoration: none;
+    color: green;
+}
+
+.linck :hover {
+    background-color: grey;
+    color: hotpink;
+}
